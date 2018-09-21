@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0936C91621547E0A00B3FF12 /* JuegoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0936C91521547E0A00B3FF12 /* JuegoViewController.swift */; };
 		098DE3B82152F76800DAC639 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098DE3B72152F76800DAC639 /* AppDelegate.swift */; };
 		098DE3BA2152F76800DAC639 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098DE3B92152F76800DAC639 /* ViewController.swift */; };
 		098DE3BD2152F76800DAC639 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 098DE3BB2152F76800DAC639 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0936C91521547E0A00B3FF12 /* JuegoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoViewController.swift; sourceTree = "<group>"; };
 		098DE3B42152F76800DAC639 /* ColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		098DE3B72152F76800DAC639 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		098DE3B92152F76800DAC639 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				098DE3B72152F76800DAC639 /* AppDelegate.swift */,
 				098DE3B92152F76800DAC639 /* ViewController.swift */,
 				098DE3BB2152F76800DAC639 /* Main.storyboard */,
+				0936C91521547E0A00B3FF12 /* JuegoViewController.swift */,
 				098DE3C12152F76900DAC639 /* Assets.xcassets */,
 				098DE3C32152F76900DAC639 /* LaunchScreen.storyboard */,
 				098DE3C62152F76900DAC639 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				098DE3BA2152F76800DAC639 /* ViewController.swift in Sources */,
+				0936C91621547E0A00B3FF12 /* JuegoViewController.swift in Sources */,
 				098DE3B82152F76800DAC639 /* AppDelegate.swift in Sources */,
 				098DE3C02152F76800DAC639 /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
